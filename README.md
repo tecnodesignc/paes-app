@@ -1,6 +1,6 @@
-# Encore CRM (encore-crm)
+# PAES App (paes-app)
 
-Encore CRMHerramienta de Proyectos, Contabilidad, Clientes potenciales, Ofertas y Recursos Humanos
+Aplicacion para Condutores de registro de PAES
 
 ## Install the dependencies
 ```bash
